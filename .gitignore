@@ -10,3 +10,6 @@
 
 # vs-code-related
 *.code-workspace
+.vscode
+.vscode/
+.vscode/*
