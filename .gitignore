@@ -10,7 +10,4 @@
 
 # vs-code-related
 *.code-workspace
-.vscode
 .vscode/
-.vscode/*
-.vscode/ltx.dictionary.en-US.txt
